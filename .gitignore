@@ -1,0 +1,7 @@
+.DS_Store
+*.log
+*.bak
+*.tmp
+*.mod
+!descriptor.mod
+.vscode/*.code-workspace

@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.mod": "plaintext"
+  },
+  "files.exclude": {
+    "**/.DS_Store": true
+  }
+}
